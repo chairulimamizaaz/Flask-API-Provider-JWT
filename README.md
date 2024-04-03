@@ -29,3 +29,9 @@ You can test the API endpoints using tools like Postman or Thunder Client (VS Co
 2. **Send Requests:**
    - Use the obtained JWT token to authenticate your requests.
    - Send HTTP requests to the desired endpoints using the tool of your choice (Postman or Thunder Client).
+
+# Without Token
+![Without Token](https://github.com/chairulimamizaaz/Flask-API-Provider-JWT/raw/main/Without%20Token.png)
+
+# With Token
+![Without Token](https://github.com/chairulimamizaaz/Flask-API-Provider-JWT/raw/main/Without%20Token.png)
